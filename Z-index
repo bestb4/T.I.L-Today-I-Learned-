@@ -1,0 +1,12 @@
+Z-index
+
+0부터 시작해서 10까지 위로 올라갈수록 높은 layer에 위치한다.
+
+ex:
+.setting{
+z-index:0
+}
+
+.column{
+z-index:1
+}
